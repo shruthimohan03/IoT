@@ -1,0 +1,4 @@
+Time Series on a Sensor Dataset
+Dataset used: Room Occupancy dataset from kaggle
+-The time series shows the variation in temperature with respect to the room occupancy and this data is captured by sensors on minute bases.
+-Using ARIMA, we get a clear pattern on the prediction for the next two days on whether there will be occupancy ( based on temperature ) and during what time of the day.
